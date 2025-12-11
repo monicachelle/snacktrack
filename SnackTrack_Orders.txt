@@ -1,0 +1,23 @@
+
+************ RECEIPT ************
+Pizza x 3 = Rs 360
+French Fries x 5 = Rs 225
+Delivery To: 34 , Royal Palms , Block name : 55
+Total Amount: Rs 585
+
+------------------------------------
+
+************ RECEIPT ************
+Burger x 2 = Rs 130
+French Fries x 1 = Rs 45
+Delivery To: Anna Nagar
+Total Amount: Rs 175
+
+------------------------------------
+
+************ RECEIPT ************
+Noodles x 2 = Rs 140
+Delivery To: Bachupally
+Total Amount: Rs 140
+
+------------------------------------
