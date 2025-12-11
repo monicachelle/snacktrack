@@ -1,5 +1,6 @@
 // SNACKTRACK PRO - FINAL PROJECT VERSION (fixed 'more' initialization)
 // Filename: SnackTrack_Pro.java
+// SNACKTRACT 
 
 import java.util.*;
 import java.io.*;
